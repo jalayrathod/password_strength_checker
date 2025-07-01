@@ -1,0 +1,73 @@
+~To understand the characteristics of a strong password, evaluate various passwords using
+online password strength checkers (e.g., passwordmeter.com), and summarize best
+practices for secure password creation.
+
+~Tested Passwords::
+1. Password: 123456
+Complexity Features: Only digits, short
+Score (PasswordMeter): 4%
+Feedback Summary: Very weak, common
+
+2. Password: password
+Complexity Features: Lowercase only
+Score (PasswordMeter): 8%
+Feedback Summary: Very weak, dictionary word
+
+3. Password: Password1
+Complexity Features: Uppercase, lowercase, digit
+Score (PasswordMeter): 54%
+Feedback Summary: Moderate, still predictable
+
+4. Password: P@ssw0rd!
+Complexity Features: Uppercase, lowercase, digit, symbol
+Score (PasswordMeter): 84%
+Feedback Summary: Strong, some patterns
+
+5. Password: G^u7!B#e9x@V1
+Complexity Features: All character types, 13 characters
+Score (PasswordMeter): 100%
+Feedback Summary: Excellent, very strong
+
+~Best Password Much Contain The Following Thing:
+1.Length: At least 12–16 characters.
+
+2.Complexity: Mix of:
+Uppercase (A–Z)
+Lowercase (a–z)
+Numbers (0–9)
+Special characters (!@#$%^&*)
+
+3.Unpredictability: Avoid dictionary words, names, or obvious substitutions (e.g., P@ssw0rd).
+
+4.No repetition or sequences: Avoid 1234, aaaa, or abcd.
+
+~Things That I Learned From Evaluation::
+Use passphrases with random words and symbols (e.g., Frog!Candle77$JumpSky).
+                    
+Avoid personal information (names, birthdates).
+                    
+Password managers can generate and store strong passwords securely.
+                    
+Regularly update passwords, especially for sensitive accounts.
+
+Enable multi-factor authentication (MFA) wherever possible.
+
+~Some Of The Common Password Attacks::
+1.Brute Force::Tries all possible combinations until the password is cracked. Time-
+consuming but effective against short or simple passwords.
+                    
+2.Dictionary Attack::	Uses a list of common passwords or words from the dictionary. Fast
+and effective against weak or reused passwords.                    
+                    
+3.Credential Stuffing::	Reuses leaked username-password pairs from other sites. Highlights
+the importance of unique passwords per site.
+
+~Complexity Affects Security::
+Longer and more complex passwords increase the time and effort required for brute-
+force or dictionary attacks.
+
+A password like 123456 can be cracked in milliseconds.
+
+A password like G^u7!B~e9x@V1 would take billions of years with current technology
+to crack via brute force.
+                    
